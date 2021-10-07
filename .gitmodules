@@ -1,0 +1,9 @@
+[submodule "reveal.js"]
+	path = reveal.js
+	url = git@github.com:hakimel/reveal.js.git
+[submodule "schultz-reveal.js-theme"]
+	path = schultz-reveal.js-theme
+	url = git@github.com:jakobjanot/schultz-reveal.js-theme.git
+[submodule "reveal.js-extrernal-code"]
+	path = reveal.js-extrernal-code
+	url = git@github.com:jakobjanot/reveal.js-extrernal-code.git
